@@ -1,10 +1,10 @@
-# Cómo Crear Gráficos con Apache ECharts | Gráficos dinámicos para aplicaciones web
+# Cómo crear gráficos con Apache ECharts | Gráficos dinámicos para aplicaciones web
 
 Aprende a crear gráficos dinámicos usando la librería Apache ECharts, de JavaScript. Conoce cómo elaborar gráficos (charts) con controles de interacción para tus sitios y aplicaciones web.
 
 <hr/>
 
-![](./preview1.png)
+![](./preview1.PNG)
 <br/><br/>
 ![](./preview2.png)
 
